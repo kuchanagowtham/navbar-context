@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.notFound-image {
+  height: 300px;
+  width: 300px;
+}
+
+.not-found-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #000000;
+  height: 89vh;
+}
+
+.notfound-light-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffffff;
+  height: 89vh;
+}
+
+.heading-text {
+  color: #ffffff;
+}
+.pera-text {
+  color: #ffffff;
+}
